@@ -1,4 +1,4 @@
-# heart-failure-prediction
+# Heart-Failure-Prediction
 
 Cardiovascular diseases (CVDs) are the no.1 cause of death globally, taking an estimated 17.9 million lives each year, 
 which accounts for 31% of all deaths worldwide. Four out of five CVD deaths are due to heart attacks and strokes, 
